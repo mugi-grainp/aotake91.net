@@ -1,0 +1,65 @@
+body {
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: #F0F9EA;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+/* 車両形式等テーブル */
+table.keishiki {
+    margin: 10px 0;
+}
+
+
+/* 箱ダイヤ回り込み指定 */
+table.unyou {
+    float: left;
+}
+
+table.unyou + img {
+    width: 550px;
+    margin-left: 10px;
+}
+
+table.unyou + img + h3 {
+    clear: left;
+}
+
+footer {
+    text-align: center;
+}
+
+th, td {
+    padding: 0.2em 0.5em;
+}
+
+tr.express {
+    background-color: #91F94F;
+}
+
+tr.ltdexp {
+    background-color: #F99E9E;
+}
+
+tr.outofservice {
+    background-color: #CCCCCC;
+}
+
+tr:first-of-type > th {
+    border-top: 2px ridge black;
+    border-bottom: 2px ridge black;
+}
+
+tr:last-of-type > td {
+    border-bottom: 2px ridge black;
+}
+
+td:nth-child(4), td:nth-child(6) {
+    text-align: right;
+}

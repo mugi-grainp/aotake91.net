@@ -1,0 +1,12 @@
+th, td { word-wrap: break-word; overflow-wrap: break-word; }
+table, tr, th, td { border: 1px solid black; }
+table {
+	width: 100%;
+	table-layout: fixed;
+}
+td { font-size: small;  font-family: monospace, sans-serif; }
+th.startcode { width: 40px; }
+th.formation { width: 100px; }
+th.opcode { width: 45px; }
+th.note { width: 140px; }
+

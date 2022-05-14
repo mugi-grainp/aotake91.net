@@ -1,0 +1,102 @@
+* {
+    line-height: 2em;
+}
+
+@media screen and (max-width: 1040px) {
+    body {
+        width: calc(100% - 50px);
+        margin: 0 20px;
+    }
+}
+
+@media screen and (min-width: 1041px) {
+    body {
+        max-width: 1000px;
+        margin: 0 auto;
+    }
+}
+
+h1 {
+    font-size: 160%;
+}
+
+h2 {
+    font-size: 130%;
+    width: calc(100% - 50px);
+    border-bottom: double 4px #006633;
+    border-left: solid 8px #006633;
+    padding-left: 10px;
+    padding-bottom: 5px;
+}
+
+dd {
+    margin-bottom: 0.3em;
+    text-align: justify;
+}
+
+a.btn-square, a.btn-square-green, a.btn-partial-published, a.btn-not-exist {
+    display: inline-block;
+    padding: 1.5em 2em;
+    margin: 0.1em 0.5em;
+    text-decoration: none;
+    color: #FFF;
+    border-radius: 3px;
+    width: 50%;
+}
+
+a.btn-square {
+    background: #668ad8;/*ボタン色*/
+    border-bottom: solid 4px #627295;
+    border-radius: 3px;
+}
+
+a.btn-square-green {
+    background: #339966;/*ボタン色*/
+    color: #FFF;
+    border-bottom: solid 4px #336666;
+}
+
+a.btn-square:active {
+    /*ボタンを押したとき*/
+    -webkit-transform: translateY(4px);
+    transform: translateY(4px);/*下に動く*/
+    border-bottom: none;/*線を消す*/
+}
+
+a.btn-square-green:active {
+    /*ボタンを押したとき*/
+    -webkit-transform: translateY(4px);
+    transform: translateY(4px);/*下に動く*/
+    border-bottom: none;/*線を消す*/
+}
+
+a.btn-partial-published {
+    background: #ff9900;
+    color: #000000;
+    border-bottom: solid 4px #cc6600;
+}
+
+a.btn-not-exist { 
+    background: #CCCCCC;
+    color: #000000;
+    border-bottom: none;
+}
+
+@media screen and (max-width: 440px) {
+    a.btn-square, a.btn-square-green, a.btn-partial-published, a.btn-not-exist {
+        width: calc(100% - 80px);
+        text-align: center;
+        margin-top: 8px;
+        margin-bottom: 8px;
+    }
+}
+
+@media screen and (min-width: 441px) {
+    a.btn-square, a.btn-square-green, a.btn-partial-published, a.btn-not-exist {
+        width: calc(100% - 80px);
+        max-width: 350px;
+        text-align: center;
+        margin-top: 8px;
+        margin-bottom: 8px;
+    }
+}

@@ -1,0 +1,76 @@
+body { 
+	margin-left: 5%;
+	min-width: 980px;
+}
+#head {
+	position: relative;
+	width: 90%;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	padding-left: 20px;
+	background-color: #CCFF99;
+	border-bottom: 2px black ridge;
+	border-right: 2px black ridge;
+}
+
+#main {
+	position: relative;
+	margin-left: 20%;
+	padding-left: 10px;
+	width: 70%;
+}
+
+#sideinfo {
+	float: left;
+	position: absolute;
+	width: 19%;
+	min-width: 200px;
+	font-size: small;
+	height: 100%;
+}
+
+#info_hist {
+	width: 95%;
+	height: 90%;
+	border: 0;
+}
+
+.currentpage {
+	font-weight: bold;
+}
+
+h2 {
+	border-left: 10px solid #33CC66;
+	border-bottom: 3px double #33CC66;
+	padding: 0px 0px 5px 10px;
+}
+
+h3 {
+	border-left: 10px solid #339966;
+	border-bottom: 3px double #339966;
+	padding: 0px 0px 5px 10px;
+}
+
+img.reportphoto {
+	width: 400px;
+	float: left;
+	margin-right: 20px;
+}
+
+p.img_tate {
+	clear: left; min-height: 35em;
+}
+
+p.img_yoko {
+	clear: left; min-height: 20em;
+}
+
+colgroup#chapter {
+	text-align: center;
+}
+
+table, th, td {
+	border: 1px solid black;
+}
+
+	

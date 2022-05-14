@@ -1,0 +1,24 @@
+.main-contents * {
+    text-align: left;
+}
+
+.main-contents h2 {
+    text-align: center;
+}
+
+.main-contents ul {
+    padding-left: 2ch;
+    list-style: disc;
+}
+
+.main-contents-section {
+    padding: 15px;
+}
+
+.main-contents-section:nth-child(2n) {
+    background-color: bisque;
+}
+
+.main-contents-section a {
+    font-size: medium;
+}

@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="FutsukaichiHaisen.svg">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective2841"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2868"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2882"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2896"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2910"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2953"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2967"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2981"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3037"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3068"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3097"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3151"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3210"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.99"
+     inkscape:cx="520.54611"
+     inkscape:cy="285.44625"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:snap-global="false"
+     inkscape:window-width="1276"
+     inkscape:window-height="756"
+     inkscape:window-x="4"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2816"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="レイヤー 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.2677)">
+    <image
+       y="751.16522"
+       x="219.50507"
+       id="image3212"
+       height="63"
+       width="62"
+       xlink:href="file:///Users/kyushuuniversity/Documents/Takuya/inkscape_pasted_image_20101130_003132.png" />
+    <image
+       y="692.56927"
+       x="369"
+       id="image3099"
+       height="61"
+       width="62"
+       xlink:href="file:///Users/kyushuuniversity/Documents/Takuya/inkscape_pasted_image_20101130_002901.png" />
+    <image
+       y="810.60968"
+       x="-841.25256"
+       id="image3070"
+       height="33"
+       width="32"
+       xlink:href="file:///Users/kyushuuniversity/Documents/Takuya/inkscape_pasted_image_20101130_002647.png"
+       transform="scale(-1,1)" />
+    <image
+       y="843.07428"
+       x="-780.50507"
+       id="image3039"
+       height="61"
+       width="60"
+       xlink:href="file:///Users/kyushuuniversity/Documents/Takuya/inkscape_pasted_image_20101130_002533.png"
+       transform="scale(-1,1)" />
+    <image
+       y="841.77118"
+       x="32.570789"
+       id="image2843"
+       height="2"
+       width="887.10077"
+       xlink:href="file:///Users/kyushuuniversity/Documents/Takuya/inkscape_pasted_image_20101130_000818.png" />
+    <image
+       y="811.4682"
+       x="31.277769"
+       id="image2870"
+       height="2"
+       width="887.10077"
+       xlink:href="file:///Users/kyushuuniversity/Documents/Takuya/inkscape_pasted_image_20101130_001024.png" />
+    <image
+       y="691.55914"
+       x="370.00003"
+       id="image3153"
+       height="61"
+       width="60"
+       xlink:href="file:///Users/kyushuuniversity/Documents/Takuya/inkscape_pasted_image_20101130_002932.png" />
+    <image
+       y="750.86224"
+       x="31.277769"
+       id="image2884"
+       height="2"
+       width="690.13104"
+       xlink:href="file:///Users/kyushuuniversity/Documents/Takuya/inkscape_pasted_image_20101130_001036.png" />
+    <image
+       y="692.27637"
+       x="289.86362"
+       id="image2898"
+       height="2"
+       width="431.5452"
+       xlink:href="file:///Users/kyushuuniversity/Documents/Takuya/inkscape_pasted_image_20101130_001050.png" />
+    <image
+       y="902.36725"
+       x="431.11642"
+       id="image2912"
+       width="290.13107"
+       xlink:href="file:///Users/kyushuuniversity/Documents/Takuya/inkscape_pasted_image_20101130_001102.png"
+       height="2" />
+    <rect
+       style="fill:none;stroke:none"
+       id="rect2916"
+       width="294.80807"
+       height="40.404053"
+       x="403.71222"
+       y="852.36218" />
+    <rect
+       style="fill:none;stroke:none"
+       id="rect2918"
+       width="210.101"
+       height="40.404049"
+       x="489.89899"
+       y="544.09448"
+       transform="translate(0,308.2677)" />
+    <rect
+       style="fill:none;stroke:none"
+       id="rect2920"
+       width="141.41414"
+       height="68.686867"
+       x="240.40404"
+       y="227.93286"
+       transform="translate(0,308.2677)" />
+    <rect
+       style="fill:none;stroke:none"
+       id="rect2922"
+       width="209.09091"
+       height="286.86868"
+       x="413.13132"
+       y="289.54904"
+       transform="translate(0,308.2677)" />
+    <rect
+       style="fill:none;stroke:none"
+       id="rect2924"
+       width="395.95959"
+       height="383.83838"
+       x="354.54544"
+       y="284.49854"
+       transform="translate(0,308.2677)"
+       ry="39.393955" />
+    <rect
+       style="fill:none;stroke:none"
+       id="rect2926"
+       width="200"
+       height="81.818184"
+       x="469.69696"
+       y="220.86215"
+       transform="translate(0,308.2677)"
+       ry="39.393955" />
+    <rect
+       style="fill:none;stroke:#000000"
+       id="rect2928"
+       width="243.43439"
+       height="41.414108"
+       x="460.60605"
+       y="852.36218"
+       ry="0" />
+    <image
+       y="761.16522"
+       x="458.30811"
+       id="image2955"
+       height="43"
+       width="245"
+       xlink:href="file:///Users/kyushuuniversity/Documents/Takuya/inkscape_pasted_image_20101130_001857.png" />
+    <image
+       y="640.96326"
+       x="459.31821"
+       id="image2969"
+       height="43"
+       width="245"
+       xlink:href="file:///Users/kyushuuniversity/Documents/Takuya/inkscape_pasted_image_20101130_001858.png" />
+    <image
+       y="700.5592"
+       x="459.31821"
+       id="image2983"
+       height="43"
+       width="245"
+       xlink:href="file:///Users/kyushuuniversity/Documents/Takuya/inkscape_pasted_image_20101130_001859.png" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.63221824px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 721.21212,689.43577 c 0,7.671 0,7.671 0,7.671"
+       id="path2991" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 721.21212,444.09448 58.58586,59.59596 0,0"
+       id="path3014"
+       transform="translate(0,308.2677)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 810.10101,812.96824 c 30.80808,30.80808 30.30303,31.31313 30.30303,31.31313"
+       id="path3045" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 430.30303,595.60963 C 370.20202,535.50862 369.69697,536.01367 369.69697,536.01367"
+       id="path3074"
+       transform="translate(0,308.2677)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 430.30303,444.09448 C 369.69697,385.50862 369.69697,385.50862 369.69697,385.50862"
+       id="path3157"
+       transform="translate(0,308.2677)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 340.40404,536.01367 C 309.59596,505.20559 310.10101,504.70054 310.10101,504.70054"
+       id="path3216"
+       transform="translate(0,308.2677)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 189.89899,504.70054 -29.29293,29.29293"
+       id="path3220"
+       transform="translate(0,308.2677)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 290.90909,692.76622 c 0,0 -60.76036,-9.3388 -86.86868,-24.24242 -31.22966,-17.82708 -61.05193,-53.06222 -77.80286,-74.73008 -19.79197,-25.60154 -34.318358,-66.68406 -34.318358,-66.68406"
+       id="path3224"
+       sodipodi:nodetypes="casc" />
+  </g>
+</svg>

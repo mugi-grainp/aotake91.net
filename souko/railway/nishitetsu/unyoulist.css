@@ -1,0 +1,100 @@
+#head {
+	position: relative;
+	width: 75%;
+	margin-left: 10%;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	padding-left: 20px;
+	background-color: #FFDD55;
+	border-bottom: 2px black ridge;
+	border-right: 2px black ridge;
+}
+
+#history {
+	position: relative;
+	margin-left: 10%;
+}
+
+#information {
+	position: relative;
+	width: 50%;
+	margin-left: 35%;
+	margin-bottom: 3em;
+}
+
+#main {
+	position: relative;
+	overflow: visible;
+	padding-left: 20px;
+	margin-left: 10%;
+	width: 75%;
+}
+
+table {
+	border: 1px solid black;
+	border-collapse: collapse;
+	position: relative;
+	font-size: small;
+	margin-left: 2%;
+}
+
+th, td {
+	border: 2px ridge black;
+}
+
+p {
+	line-height: 1.2em;
+	margin: 0.5em;
+}
+
+/* 運用詳細表 */
+tr.express { background-color: #33FF00; }
+tr.hatsumoude { background-color: #CCFF99; }
+tr.ltdexp { background-color: #FF9999; }
+tr.outofservice { background-color: #FFFF99; }
+
+td + td + td + td {		/* 始発時刻（右揃え） */
+	text-align: right;
+}
+
+td + td + td + td + td {/* 終着駅（左揃えに戻す） */
+	text-align: left;
+}
+
+td + td + td + td + td + td {	/* 終着時刻（右揃え） */
+	text-align: right;
+}
+
+td + td + td + td + td + td + td {	/* 備考（左揃えに戻す） */
+	text-align: left;
+}
+
+.currentpage {
+	font-weight: bold;
+}
+
+h2 {
+	border-left: 10px solid #33CC66;
+	border-bottom: 3px double #33CC66;
+	padding: 0px 0px 5px 10px;
+}
+
+h3 {
+	border-left: 10px solid #339966;
+	border-bottom: 3px double #339966;
+	padding: 0px 0px 5px 10px;
+}
+
+h4 {
+	border-bottom: 2px dotted #66CC66;
+	border-top: 2px dotted #66CC66;
+	padding: 5px 0px 5px 10px;
+	margin-bottom: 10px;
+}
+
+pre.tnum_list {
+	border: 1px solid black;
+	padding: 10px;
+	background-color: #CCCCCC;
+	font-size: 10.5pt;
+}

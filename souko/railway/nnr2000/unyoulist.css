@@ -1,0 +1,34 @@
+#head {
+	width: 75%;
+	margin-left: 10%;
+}
+
+#history {
+	position: absolute;
+	width: 20%;
+	margin-left: 10%;
+}
+
+#information {
+	position: relative;
+	width: 50%;
+	margin-left: 35%;
+	margin-bottom: 3em;
+}
+
+#main {
+	position: relative;
+	overflow: visible;
+	padding-left: 20px;
+	margin-left: 10%;
+	width: 75%;
+}
+
+/* 運用詳細表 */
+tr.express { background-color: #33FF00; }
+tr.ltdexp { background-color: #FF9999; }
+tr.outofservice { background-color: #FFFF99; }
+
+.currentpage {
+	font-weight: bold;
+}

@@ -1,0 +1,53 @@
+/*
+body, h1, h2, h3, header, article, footer, p {
+	padding: 0;
+	margin: 0;
+}
+*/
+* {
+	font-family: sans-serif;
+}
+
+body {
+	padding-left: 10px;
+	width: 800px;
+	background-color: #FFFFCC;
+}
+
+header, article, footer {
+	display: block;
+	left: 150px;
+	position: relative;
+}
+
+article {
+	margin-left: 10px;
+}
+
+footer {
+	display: block;
+	clear: both;
+}
+
+article h3, header h3 {
+	border-left: 10px solid #FF9900;
+	border-bottom: 2px solid #FF9900;
+	padding-top: 5px;
+	padding-left: 10px;
+	padding-bottom: 5px;
+}
+article h3 {
+	margin-left: -10px;
+}
+
+table {
+	margin: 10px 0;
+}
+
+table, th, tr, td {
+	border: 1px ridge white;
+}
+
+td.pass {
+	color: red;
+}

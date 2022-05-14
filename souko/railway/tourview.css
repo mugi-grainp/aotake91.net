@@ -1,0 +1,65 @@
+/* 新入生歓迎旅行　日程表用CSS */
+
+* {
+	font-family: sans-serif;
+}
+
+nav#index {
+	width: 80%;
+}
+
+h1 {font-size: 160%;}
+h2 {
+	font-size: 130%;
+	width: 80%;
+	border-bottom: double 4px #006633;
+	border-left: solid 8px #006633;
+	padding-left: 10px;
+	padding-top: 5px;
+}
+
+table {
+	margin-left: 1.5em;
+}
+tr.altbgcolor { /* 1行ごとに色分け表示 */
+	background-color: #FFFFCC;
+	color: #000000;
+}
+tr.corrected { /* 訂正箇所 */
+	background-color: #99FF99;
+	color: #000000;
+}
+
+table, th, tr, td {
+	border: solid 1px #3366FF;
+}
+td {
+	padding: 0.1em;
+  }
+td.arrow {
+    text-align: center;
+} 
+td.time {
+    text-align: right;
+}
+
+#D3_kouteitablebox {
+	position: relative;
+	margin-top: 1.5em;
+}
+#D3_0904_koutei1 {
+	position: relative;
+	top: 0px;
+	left: 0px;
+}
+
+#D3_0904_koutei2 {
+	position: absolute;
+	top: 0px;
+	left: 50%;
+}
+#main {
+	position: relative;
+	margin-left: 0.5em;
+	min-width: 110%;
+}
